@@ -1,3 +1,3 @@
 Jobs Recommendation Engine: 
 
-Collaborrative Filtering using implicit features in pyspark
+Collaborative Filtering using implicit features in pyspark
